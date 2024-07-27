@@ -43,7 +43,6 @@ We chose to incoporate 3 surpervised learning algorithms into 3 different models
 - Neural Network (MLP -  Multilayer Perceptron) - Deep learning
 
 We then evaluated the accuracy of those models and interpretted the results.
-### Debrief
 
 # Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
