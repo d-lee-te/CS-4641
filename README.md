@@ -27,7 +27,7 @@ Machine learning methods:
 ### Final Project
 I'd love to have forked and linked our team's final report, but I don't believe I can do that or that I would be allowed to do that anyhow.
 
-However, I believe I can describe what I did.
+However, I believe I can describe what my team and I did.
 
 Data Collection, Visualization, Preprocessing
   - Imported the dataset
